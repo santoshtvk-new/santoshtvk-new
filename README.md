@@ -36,4 +36,4 @@
 
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/santoshtvk) 
-[![RazorPayServices](https://d6xcmfyh68wv8.cloudfront.net/newsroom-content/uploads/2021/02/white.png)](https://razorpay.me/@pynfinity_by_santoshtvk) 
+[RazorPayServices](https://razorpay.me/@pynfinity_by_santoshtvk) 
